@@ -1,0 +1,32 @@
+#posts {
+    display: none;
+}
+
+#albums {
+    display: none;
+}
+
+#album {
+    display: none;
+}
+
+#post{
+    display: none;
+}
+
+#comments {
+    display: none;
+}
+
+#photos {
+    display: none;
+}
+
+.link {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#photo{
+    display: none;
+}
